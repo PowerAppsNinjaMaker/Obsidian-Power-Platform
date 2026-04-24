@@ -1,4 +1,4 @@
-Voici votre nouveau *coffre*.
+Voici votre nouveau *coffre*.ddd
 
 Notez quelque chose, [[créez un lien]], ou essayez [l'importateur](https://help.obsidian.md/Plugins/Importer)!
 
